@@ -8,7 +8,7 @@ public class allen_week02_01 : MonoBehaviour
 	private string goodbye = "This concludes this portion of the homework. Goodbye.";
 
 
-	void Main ()
+	void Main ()		//The instructions set up how this function had to be written.
 		{
 			print (hello + " " + name + ".");
 			print (goodbye);
