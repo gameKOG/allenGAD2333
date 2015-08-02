@@ -22,4 +22,4 @@ public class allen_week02_02 : MonoBehaviour {
 	void Update () {
 	
 	}
-}
+}  
