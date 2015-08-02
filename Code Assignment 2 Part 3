@@ -54,4 +54,4 @@ public class allen_week02_03 : MonoBehaviour {
 			this.transform.position = position;
 		}
 	}
-}
+}  
